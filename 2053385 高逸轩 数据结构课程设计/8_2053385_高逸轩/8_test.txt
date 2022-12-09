@@ -1,0 +1,30 @@
+A
+4
+a b c d
+
+B
+6
+a b 8
+b c 7
+c d 5
+d a 11
+a c 18
+b d 12
+
+C
+
+D
+
+A
+2
+q w
+
+B
+1
+q w 2
+
+C
+
+D
+
+E
